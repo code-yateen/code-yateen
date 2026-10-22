@@ -3,7 +3,7 @@
   Software Development · Data Analytics
 </p>
 
-I'm a Chemical Engineering undergraduate at Delhi Technological University interested in building useful software and turning data into insights.
+I'm a Engineering undergraduate at Delhi Technological University interested in building useful software and turning data into insights.
 
 I enjoy working across the stack from backend APIs and web applications to data analysis and predictive modelling.
 
